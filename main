@@ -1,8 +1,0 @@
-# 1. Initialize the local folder as a Git repository
-git init -b main
-
-# 2. Add your files (or create a README if the folder is empty)
-git add .
-
-# 3. Create the initial commit
-git commit -m "Initial commit"
